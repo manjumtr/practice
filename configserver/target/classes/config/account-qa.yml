@@ -1,0 +1,6 @@
+build:
+  version: 2.O
+
+account:
+  name: microservices.account.qa
+  developer: manju_qa

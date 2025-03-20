@@ -1,0 +1,6 @@
+build:
+  version: 2.O
+
+loan:
+  name: microservices.loan.qa
+  developer: manju.qa

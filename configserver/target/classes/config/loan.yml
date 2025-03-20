@@ -1,0 +1,6 @@
+build:
+  version: 1.O
+
+account:
+  name: microservices.loan
+  developer: manju

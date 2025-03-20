@@ -1,0 +1,6 @@
+build:
+  version: 3.O
+
+account:
+  name: microservices.account.prod
+  developer: manju_prod
