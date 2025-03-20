@@ -1,0 +1,8 @@
+1. The system should allow users to view the list of movies playing in different theaters.-done
+2. Users should be able to select a movie, theater, and show timing to book tickets.-done
+3. The system should display the seating arrangement of the selected show and allow users to choose seats.-done
+4. Users should be able to make payments and confirm their booking.-done
+5. The system should handle concurrent bookings and ensure seat availability is updated in real-time.
+6. The system should support different types of seats (e.g., normal, premium) and pricing.-done
+7. The system should allow theater administrators to add, update, and remove movies, shows, and seating arrangements.-done
+8. The system should be scalable to handle a large number of concurrent users and bookings.
